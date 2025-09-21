@@ -1,6 +1,6 @@
 strategy	regret
-uniform	125.8136
-just-0	0.0000
-just-1	70.4591
-just-2	306.9815
-actual	43.4421
+uniform	np.float64(125.81355419539247)
+just-0	np.float64(0.0)
+just-1	np.float64(70.45913559938305)
+just-2	np.float64(306.9815269867944)
+actual	np.float64(43.40149806048373)
