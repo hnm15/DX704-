@@ -1,0 +1,8 @@
+state	action
+exposed-1	do-nothing
+exposed-2	do-nothing
+exposed-3	do-nothing
+recovered	do-nothing
+symptoms-1	do-nothing
+symptoms-2	do-nothing
+symptoms-3	sleep-8
