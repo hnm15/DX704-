@@ -1,1 +1,1 @@
-Classify the request: "{query}". Use Electrical, Plumbing, or Roofing. Animal, pest, or bird problems count as Roofing. Reply with one word.
+Classify the request: "{query}". Use Roofing, Plumbing, or Electrical. Animal or pest problems count as Roofing. Reply with one word.
