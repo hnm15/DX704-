@@ -1,1 +1,1 @@
-You classify homeowner requests into Electrical, Plumbing, or Roofing. Choose the single best category and output one word only. Homeowner request: "{query}"
+You classify homeowner requests as Electrical, Plumbing, or Roofing. Animal, pest, or bird problems should be classified as Roofing. Reply with one word only. Homeowner request: "{query}"
