@@ -1,1 +1,1 @@
-YOUR LONG PROMPT …
+You classify homeowner requests into Electrical, Plumbing, or Roofing. Choose the single best category and output one word only. Homeowner request: "{query}"
