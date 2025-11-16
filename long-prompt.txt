@@ -1,1 +1,1 @@
-You classify homeowner requests as Electrical, Plumbing, or Roofing. Animal, pest, or bird problems (including turkeys) should be classified as Roofing. Reply with one word only. Homeowner request: "{query}"
+Classify the homeowner request as Roofing, Plumbing, or Electrical. IMPORTANT: turkeys, birds, animals, pests, wildlife = Roofing. Water issues = Plumbing. Wiring issues = Electrical. Respond with exactly one word in lowercase. Request: "{query}"
