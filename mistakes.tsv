@@ -1,6 +1,6 @@
 query	target_category	predicted_category
-Water drips from a light fixture only when the roof fan is running.	Plumbing	Electrical
-Breaker trips whenever rain hits the shingles above my bedroom.	Roofing	Electrical
-Pipe noise comes from the attic where the roof vents meet the wiring.	Roofing	Plumbing
-Shower pressure drops when I switch on the ceiling lights.	Plumbing	Electrical
-A roof tile fell and now the bathroom outlet won't turn on.	Roofing	Electrical
+Water drips from a light when the roof fan runs.	Electrical	Plumbing
+Breaker trips when rain hits roof shingles.	Roofing	Electrical
+Pipe noise in attic near roof vent.	Plumbing	Roofing
+Shower pressure drops when lights turn on.	Plumbing	Electrical
+Roof tile fell and now outlet is dead.	Roofing	Electrical
