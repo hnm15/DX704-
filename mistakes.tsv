@@ -1,6 +1,6 @@
 query	target_category	predicted_category
-Water drips from ceiling during rain.	roofing	Plumbing
-Outlet sparks when used.	electrical	Roofing
-Toilet leaking at base.	plumbing	Electrical
-Roof tile missing after storm.	roofing	Electrical
-Sink backed up into dishwasher.	plumbing	Roofing
+Water drips from ceiling during rain.	roofing	plumbing
+Outlet sparks when used.	electrical	roofing
+Toilet leaking at base.	plumbing	electrical
+Roof tile missing after storm.	roofing	electrical
+Sink backed up into dishwasher.	plumbing	roofing
