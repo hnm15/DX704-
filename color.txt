@@ -1,0 +1,7 @@
+show me the color blue
+Red: 0, Green: 0, Blue: 255
+show me the color cyan
+Red: 0, Green: 0, Blue: 255
+Red: 0, Green: 255, Blue: 255
+show me the color red
+Red: 255, Green: 0, Blue: 0
